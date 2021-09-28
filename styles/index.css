@@ -1,0 +1,33 @@
+* {
+	font-family: 'Be Vietnam Pro', sans-serif;
+	background-size: auto;
+}
+
+#body {
+	background-image: url("https://i.gifer.com/Ym11.gif");
+}
+
+.navbar-brand {
+	font-family: 'Anton', sans-serif;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-family: 'Bebas Neue', cursive;;
+	letter-spacing: 5px;
+}
+
+.navbar {
+	border-bottom: 1px solid black;
+}
+
+.footer {
+	margin-top: 15%;
+
+}
+
+
+#hi {
+	font-family: 'Encode Sans SC', sans-serif;
+	letter-spacing: 3px;
+	font-size: 50px;
+	padding-top: 20%;
+}
+

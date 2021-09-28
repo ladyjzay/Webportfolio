@@ -1,0 +1,48 @@
+* {
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+#body {
+	background-image: url("https://i.gifer.com/Ym11.gif");
+}
+
+.navbar-brand {
+	font-family: 'Anton', sans-serif;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-family: 'Bebas Neue', cursive;;
+	letter-spacing: 5px;
+}
+
+.navbar {
+	border-bottom: 1px solid black;
+}
+
+#hi {
+	font-family: 'Encode Sans SC', sans-serif;
+	letter-spacing: 10px;
+	font-size: 50px;
+}
+
+#cups {
+	padding-top: 2px;
+	font-weight: 10px;
+	border: 3px solid black;
+}
+
+#heading {
+	margin-top: 15px;
+	font-family: 'Encode Sans SC', sans-serif;
+	font-family: 'Sunshiney', cursive;
+	font-size: 50px;
+}
+
+#skills {
+	
+}
+#footer {
+	letter-spacing: 10px;
+	/*padding-top: 80px;*/
+	/*margin-top: 5rem;*/
+	font-size: 12px;
+	font-weight: 10px;
+}
