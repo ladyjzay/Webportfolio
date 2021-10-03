@@ -16,7 +16,9 @@
 
 .navbar {
 	border-bottom: 1px solid black;
-}
+	font-size: 20px;
+	font-weight: 5rem;
+}	
 
 .footer {
 	margin-top: 15%;
@@ -27,7 +29,7 @@
 #hi {
 	font-family: 'Encode Sans SC', sans-serif;
 	letter-spacing: 3px;
-	font-size: 50px;
+	font-size: 70px;
 	padding-top: 20%;
 }
 

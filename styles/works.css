@@ -15,13 +15,14 @@
 
 .navbar {
 	border-bottom: 1px solid black;
+	font-size: 20px;
+	font-weight: 5rem;
 }
 
 #heading {
 	font-family: 'Encode Sans SC', sans-serif;
 	letter-spacing: 10px;
 	font-size: 30px;
-	/*padding-bottom: 5px;*/
 	font-weight: 20px;
 }
 
